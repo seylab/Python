@@ -45,3 +45,6 @@ print("25 sayısının karekökü:", sqrt(25))
 
 
 print("=========================================")
+import math
+
+print(math.__init__)
